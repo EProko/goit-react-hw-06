@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1.5px solid black;
+  border-radius: 10px;
+  padding: 8px;
+}
+
+.icon {
+  padding: 0 8px 0;
+}
+
+.info > P {
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.container > input {
+  width: 315px;
+  height: 20px;
+  padding-left: 8px;
+}
